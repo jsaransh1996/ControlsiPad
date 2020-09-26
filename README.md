@@ -27,10 +27,10 @@ iPad with Landscape Mode
 To Edit Buttons: Press on Edit button on top right corner. Then click on any of the text field, and try to enter any key. Keyboard will dismiss either by updating or by showing you error.
 
 ## Techincals
-Step 1: sample.txt is copied to document directory, if not found in document directory.
-Step 2: content is loaded from document directory.
-Step 3: JSON is parsed and converted to Models
-Step 3: UI is rendered according to this Models
-Step 4: On Editing, validation check is implemented to check for Duplicates.
-Step 5: On Done, model is converted back to JSON and saved in the Document Directory
-Step 6: On new launch of application, content are now loaded from last saved document directory file.
+- Step 1: sample.txt is copied to document directory, if not found in document directory.
+- Step 2: content is loaded from document directory.
+- Step 3: JSON is parsed and converted to Models
+- Step 3: UI is rendered according to this Models
+- Step 4: On Editing, validation check is implemented to check for Duplicates.
+- Step 5: On Done, model is converted back to JSON and saved in the Document Directory
+- Step 6: On new launch of application, content are now loaded from last saved document directory file.
