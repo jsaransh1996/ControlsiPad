@@ -1,0 +1,64 @@
+{
+  "ControlSchemes": [
+    {
+      "GameControls": [
+        {
+          "Key1": "1",
+          "Key2": "2",
+          "KeyB": "B",
+          "KeyQ": "Q",
+          "KeyE": "E",
+          "KeyC": "C",
+          "KeyR": "R",
+          "KeyMouseRButton": "MouseRButton",
+          "Key4": "4",
+          "KeyF": "F",
+          "KeyV": "V",
+          "Key3": "3",
+          "KeyM": "M",
+          "Guidance": {
+            "Key1": "Weapon 1",
+            "Key2": "Weapon 2",
+            "KeyB": "Firing mode toggle",
+            "KeyQ": "Lean_Left",
+            "KeyE": "Lean_Right",
+            "KeyC": "Crouch",
+            "KeyR": "Reload",
+            "KeyMouseRButton": "Scope",
+            "Key4": "Grenade",
+            "KeyF": "Jump parachute",
+            "KeyV": "Revive",
+            "Key3": "Weapon 3",
+            "KeyM": "Map"
+          }, 
+          "GuidanceCategory": "Aim & Shoot"
+        },
+        {
+          "KeyF": "F",
+          "KeyG": "G",
+          "KeyTab": "Tab",
+          "KeyF4": "F4",
+          "Key5": "5",
+          "KeyZ": "Z",
+          "Key": "Shift",
+          "KeyDown": "Down",
+          "KeyUp": "Up",
+          "KeyEnter": "Enter",
+          "Guidance": {
+            "KeyF": "Open door",
+            "KeyG": "Get In",
+            "KeyTab": "Inventory",
+            "KeyF4": "Scope switch",
+            "Key5": "Heal",
+            "KeyZ": "Prone",
+            "Key": "Boost",
+            "KeyDown": "Swim down",
+            "KeyUp": "Swim_Up",
+            "KeyEnter": "Send"
+          }, 
+          "GuidanceCategory": "General"
+        }
+      ]
+    }
+  ]
+}
