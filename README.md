@@ -16,6 +16,7 @@
 
 ## Scenarios Not Handled
 - Non pressable keys handling
+- Instead of Mac Application, I have made an iPad Applciation, as I do not have any previous experience for Mac Development
 
 ## Best view
 iPad with Landscape Mode
